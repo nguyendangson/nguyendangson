@@ -5,7 +5,7 @@ I am interested in both Math and Computer Science. My research focuses on Optimi
 
 # 🌐 Socials:
  Linkedin: https://pages.github.com/](https://www.linkedin.com/in/son-nguyen-ph-d-023885124/
-[Linkedin](https://pages.github.com/](https://www.linkedin.com/in/son-nguyen-ph-d-023885124/)
+[Linkedin](https://www.linkedin.com/in/son-nguyen-ph-d-023885124/)
   
 Researchgate: https://www.researchgate.net/profile/Son-Nguyen-8
 

@@ -3,6 +3,7 @@ I am currently a Ph.D. candidate graduated in May 2024 in Mathematics at The Uni
 
 I am interested in both Math and Computer Science. My research focuses on Optimization/Probability/Statistics problems and their applications involving Geometry and Graph theory such as Matrix Scaling, Sampling on Convex Body, Hight-dimension Convex Geometry,...
 
+Currently, I am looking for jobs e.g. Data Science, Statistician, Quantitative Analysis/Research, Machine Learning Engineering, and Computational Science
 # 🌐 Socials:
 [Linkedin](https://www.linkedin.com/in/son-nguyen-ph-d-023885124/)
   
@@ -13,5 +14,3 @@ I am interested in both Math and Computer Science. My research focuses on Optimi
 [Stackoverflow](https://stackoverflow.com/users/9231101/nguyen-dang-son )
 
 [Stackoverflow](https://stackoverflow.com/users/19303596/son-nguyen)
-
-Currently, I am looking for jobs e.g. Data Science, Statistician, Quantitative Analysis/Research, Machine Learning Engineering, and Computational Science

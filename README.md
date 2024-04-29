@@ -1,4 +1,4 @@
-# About me
+# 🌃 About me
 I am currently a Ph.D. candidate graduated in May 2024 in Mathematics at The University of Alabama, Tuscaloosa. I also earned a Master's degree in Optimization and Statistics at Wayne State University, Detroit, Michigan.
 
 I am interested in both Math and Computer Science. My research focuses on optimization/probability/statistics problems and their applications involving Graph theory, Matrices, and Symmetric Polynomials such as Matrix Scaling, Spectrum of Graph, Expander graphs, Graph coloring, Chromatic symmetric polynomials,... I use Python and R to compute, find patterns, and design algorithms. 

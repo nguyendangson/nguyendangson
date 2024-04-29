@@ -19,4 +19,4 @@ Stackoverflow: https://stackoverflow.com/users/19303596/son-nguyen
 Currently, I am looking for jobs e.g. Data Science, Statistician, Quantitative Analysis/Research, Machine Learning Engineering, and Computational Science.
 
 # 🌐 Socials:
-https://icons8.com/icon/13930/linkedin
+

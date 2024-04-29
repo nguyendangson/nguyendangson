@@ -14,7 +14,9 @@ I am interested in both Math and Computer Science. My research focuses on Optimi
 # 🌐 Socials:
 [Linkedin](https://www.linkedin.com/in/son-nguyen-ph-d-023885124/)
 
-![LI-Logo](https://github.com/nguyendangson/nguyendangson/assets/33495366/cbb69cd4-ebca-45f7-a861-4dbb84da394d)
+[Linkedin](https://www.linkedin.com/in/son-nguyen-ph-d-023885124/)
+
+![LI-Logo](https://github.com/nguyendangson/nguyendangson/assets/33495366/cbb69cd4-ebca-45f7-a861-4dbb84da394d =250x250)
 
 
   

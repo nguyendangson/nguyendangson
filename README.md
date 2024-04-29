@@ -18,6 +18,8 @@ I am interested in both Math and Computer Science. My research focuses on Optimi
 
 ![LI-Logo](https://github.com/nguyendangson/nguyendangson/assets/33495366/cbb69cd4-ebca-45f7-a861-4dbb84da394d =250x250)
 
+<img src="[https://cloud.githubusercontent.com/assets/yourgif.gif](https://github.com/nguyendangson/nguyendangson/assets/33495366/cbb69cd4-ebca-45f7-a861-4dbb84da394d)" width="400" height="790">
+
 
   
 [Researchgate](https://www.researchgate.net/profile/Son-Nguyen-8)

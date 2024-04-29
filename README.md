@@ -19,5 +19,4 @@ Stackoverflow: https://stackoverflow.com/users/19303596/son-nguyen
 Currently, I am looking for jobs e.g. Data Science, Statistician, Quantitative Analysis/Research, Machine Learning Engineering, and Computational Science.
 
 # 🌐 Socials:
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](![Uploading image.png…]()
-)
+https://icons8.com/icon/13930/linkedin

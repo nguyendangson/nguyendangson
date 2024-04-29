@@ -1,4 +1,4 @@
-![image](https://github.com/nguyendangson/nguyendangson/assets/33495366/a095cf63-d299-4afe-b0a0-f84654bc2566)# 🌃 About me
+# 🌃 About me
 I am currently a Ph.D. candidate graduated in May 2024 in Mathematics at The University of Alabama, Tuscaloosa. I also earned a Master's degree in Optimization and Statistics at Wayne State University, Detroit, Michigan.
 
 I am interested in both Math and Computer Science. My research focuses on Optimization/Probability/Statistics problems and their applications involving Geometry and Graph theory such as Matrix Scaling, Sampling on Convex Body, Hight-dimension Convex Geometry,...

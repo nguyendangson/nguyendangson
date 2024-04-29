@@ -1,9 +1,11 @@
-# 🌃 About me
+![image](https://github.com/nguyendangson/nguyendangson/assets/33495366/a095cf63-d299-4afe-b0a0-f84654bc2566)# 🌃 About me
 I am currently a Ph.D. candidate graduated in May 2024 in Mathematics at The University of Alabama, Tuscaloosa. I also earned a Master's degree in Optimization and Statistics at Wayne State University, Detroit, Michigan.
 
 I am interested in both Math and Computer Science. My research focuses on Optimization/Probability/Statistics problems and their applications involving Geometry and Graph theory such as Matrix Scaling, Sampling on Convex Body, Hight-dimension Convex Geometry,...
 
 # Socials:
+Linkedin : https://www.linkedin.com/in/son-nguyen-ph-d-023885124/
+
 Researchgate: https://www.researchgate.net/profile/Son-Nguyen-8
 
 Google Scholar: https://scholar.google.com/citations?user=LABRWj0AAAAJ&hl=en
@@ -17,4 +19,4 @@ Stackoverflow: https://stackoverflow.com/users/19303596/son-nguyen
 Currently, I am looking for jobs e.g. Data Science, Statistician, Quantitative Analysis/Research, Machine Learning Engineering, and Computational Science.
 
 # 🌐 Socials:
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.]([https://myoctocat.com/assets/images/base-octocat.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rawpixel.com%2Fsearch%2Flinkedin%2520icon%2520png&psig=AOvVaw0pDu-MAlKf1TM51Vf4Z_hW&ust=1714485853090000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLiH0NTL54UDFQAAAAAdAAAAABAE))

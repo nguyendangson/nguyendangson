@@ -13,7 +13,7 @@ I am interested in both Math and Computer Science. My research focuses on Optimi
 
 # 🌐 Socials:
 [<img src="https://github.com/nguyendangson/nguyendangson/assets/33495366/cbb69cd4-ebca-45f7-a861-4dbb84da394d" width="100" height="20">](https://www.linkedin.com/in/son-nguyen-ph-d-023885124/)
-[<img src="https://github.com/nguyendangson/nguyendangson/assets/33495366/27d743ec-c525-403a-a400-9d811e21134b" width="100" height="30">](https://www.researchgate.net/profile/Son-Nguyen-8)
+[<img src="https://github.com/nguyendangson/nguyendangson/assets/33495366/27d743ec-c525-403a-a400-9d811e21134b" width="30" height="30">](https://www.researchgate.net/profile/Son-Nguyen-8)
 [<img src="https://github.com/nguyendangson/nguyendangson/assets/33495366/15b82a13-5446-4dc8-917d-d97cff27e3a5" width="100" height="50">](https://scholar.google.com/citations?user=LABRWj0AAAAJ&hl=en)
 [<img src="https://github.com/nguyendangson/nguyendangson/assets/33495366/4a545fd1-335b-442d-bf91-4ea48f6f6f29" width="100" height="50">](https://stackoverflow.com/users/9231101/nguyen-dang-son )
 [<img src="https://github.com/nguyendangson/nguyendangson/assets/33495366/4a545fd1-335b-442d-bf91-4ea48f6f6f29" width="100" height="50">](https://stackoverflow.com/users/19303596/son-nguyen)

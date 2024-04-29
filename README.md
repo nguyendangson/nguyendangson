@@ -1,7 +1,10 @@
 # 🧐 About me:
-I am currently a Ph.D. candidate graduated in May 2024 in Mathematics at The University of Alabama, Tuscaloosa. I also earned a Master's degree in Optimization and Statistics at Wayne State University, Detroit, Michigan in 2018.
+I am a Ph.D. graduated in May 2024 in Mathematics at The University of Alabama, Tuscaloosa. I also earned a Master's degree in Optimization and Statistics at Wayne State University, Detroit, Michigan in 2018.
 
-Currently, I am looking for jobs e.g. Data Science, Statistician, Quantitative Analysis/Research, Machine Learning Engineering, and Computational Science
+# 🧑‍💻 Jobs:
+Currently, I am a Data Science Intern in Management Reporting and Business Intelligence team at Volvo Trucks, Greensboro, North Carolina, US.
+
+I am looking for jobs: Data Science, Statistician, Quantitative Analysis/Research, Machine Learning Engineering, and Computational Science
 
 # ℼ Research:
 I am interested in both Math and Computer Science. My research focuses on Optimization/Probability/Statistics problems and their applications involving Geometry and Graph theory such as Matrix Scaling, Sampling on Convex Bodies, Hight-dimension Convex Geometry,...

@@ -8,6 +8,7 @@ Currently, I am looking for jobs e.g. Data Science, Statistician, Quantitative A
 # ℼ Research
 I am interested in both Math and Computer Science. My research focuses on Optimization/Probability/Statistics problems and their applications involving Geometry and Graph theory such as Matrix Scaling, Sampling on Convex Body, Hight-dimension Convex Geometry,...
 
+**Publications**
 - **Son Dang Nguyen**, [\"Constrained Fermat-Torricelli-Weber Problem in real Hilbert Spaces\"](https://arxiv.org/pdf/1806.04296.pdf).
 # 🌐 Socials:
 [Linkedin](https://www.linkedin.com/in/son-nguyen-ph-d-023885124/)

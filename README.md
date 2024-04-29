@@ -2,7 +2,7 @@
 I am a Ph.D. graduated in May 2024 in Mathematics at The University of Alabama, Tuscaloosa. I also earned a Master's degree in Optimization and Statistics at Wayne State University, Detroit, Michigan in 2018.
 
 # 👨‍💻 Jobs:
-Currently, I am a **Data Science Intern** in Management Reporting and Business Intelligence team at **Volvo Trucks**, Greensboro, North Carolina, US.
+Currently, I am a **Data Science Intern** in Management Reporting and Business Intelligence team at **Volvo Trucks** <img name="volvo" src="https://github.com/nguyendangson/nguyendangson/assets/33495366/77fe733a-a86b-4639-b83e-68236566157f" width="30" height="30"> <img name="R" src="https://github.com/nguyendangson/nguyendangson/assets/33495366/063d5e1f-a8ad-4a31-8126-d1f1faa7c3eb" width="80" height="30">, Greensboro, North Carolina, US.
 
 I am looking for jobs: **Data Science, Statistician, Machine Learning Engineering, Quantitative Analysis/Research, and Computational Science**
 

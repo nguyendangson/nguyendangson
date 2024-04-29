@@ -4,7 +4,7 @@ I am currently a Ph.D. candidate graduated in May 2024 in Mathematics at The Uni
 I am interested in both Math and Computer Science. My research focuses on Optimization/Probability/Statistics problems and their applications involving Geometry and Graph theory such as Matrix Scaling, Sampling on Convex Body, Hight-dimension Convex Geometry,...
 
 # 🌐 Socials:
-Linkedin : https://www.linkedin.com/in/son-nguyen-ph-d-023885124/
+https://icons8.com/icon/13930/linkedin Linkedin : https://www.linkedin.com/in/son-nguyen-ph-d-023885124/
 
 Researchgate: https://www.researchgate.net/profile/Son-Nguyen-8
 

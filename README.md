@@ -1,7 +1,7 @@
 # 🌃 About me
 I am currently a Ph.D. candidate graduated in May 2024 in Mathematics at The University of Alabama, Tuscaloosa. I also earned a Master's degree in Optimization and Statistics at Wayne State University, Detroit, Michigan.
 
-I am interested in both Math and Computer Science. My research focuses on Optimization/Probability/Statistics problems and their applications involving Geometry and Graph theory such as Matrix Scaling, Uniformly Sampling on Convex Geometry, Hight-dimension Convex Geometry,...
+I am interested in both Math and Computer Science. My research focuses on Optimization/Probability/Statistics problems and their applications involving Geometry and Graph theory such as Matrix Scaling, Sampling on Convex Body, Hight-dimension Convex Geometry,...
 
 Researchgate: https://www.researchgate.net/profile/Son-Nguyen-8
 

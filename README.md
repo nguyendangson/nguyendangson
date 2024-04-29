@@ -1,10 +1,14 @@
 # 🧐 About me:
 I am a Ph.D. graduated in May 2024 in Mathematics at The University of Alabama, Tuscaloosa. I also earned a Master's degree in Optimization and Statistics at Wayne State University, Detroit, Michigan in 2018.
 
-# 🧑‍💻 Jobs:
+# 👨‍💻 Jobs:
 Currently, I am a **Data Science Intern** in Management Reporting and Business Intelligence team at **Volvo Trucks**, Greensboro, North Carolina, US.
 
 I am looking for jobs: **Data Science, Statistician, Quantitative Analysis/Research, Machine Learning Engineering, and Computational Science**
+
+# 🧑‍💻 Technical Skills
+[<img src="https://camo.githubusercontent.com/0562f16a4ae7e35dae6087bf8b7805fb7e664a9e7e20ae6d163d94e56b94f32d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" width="100" height="20">
+
 
 # ℼ Research:
 I am interested in both Math and Computer Science. My research focuses on Optimization/Probability/Statistics problems and their applications involving Geometry and Graph theory such as Matrix Scaling, Sampling on Convex Bodies, Hight-dimension Convex Geometry,...

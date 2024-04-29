@@ -12,7 +12,7 @@ I am looking for jobs: **Data Science, Statistician, Machine Learning Engineerin
 # ℼ Research:
 I am interested in both Math and Computer Science. My research focuses on Optimization/Probability/Statistics problems and their applications involving Geometry and Graph theory.
 - **Research Areas:**
-  - Orbit-Closure-Separation problems which surprisingly very closed to P"r"$\ne$""NP problem, Matrix Scaling, Tensor problems, and Tensor Normal Models in pure Computer Science (see [Avi Wigderson ICM talk](https://www.youtube.com/watch?v=oOnyful_oPY&ab_channel=InternationalMathematicalUnion))
+  - Orbit-Closure-Separation problems which surprisingly very closed to P$\ne$NP problem, Matrix Scaling, Tensor problems, and Tensor Normal Models in pure Computer Science (see [Avi Wigderson ICM talk](https://www.youtube.com/watch?v=oOnyful_oPY&ab_channel=InternationalMathematicalUnion))
   - Sampling on Convex Bodies
   - Hight-dimension Convex Geometry
 

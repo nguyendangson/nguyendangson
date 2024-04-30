@@ -12,12 +12,14 @@ I am looking for jobs: **Data Science, Statistician, Machine Learning Engineerin
 # ℼ Research:
 I am interested in both Math and Computer Science. My research focuses on the application of techniques from pure mathematics to the solution of fundamental problems in Computational Geometry, Computational Biology, Graph theory, Optimization, Probability/Statistics,  problems.
 - **Research Areas:**
-  - Matrix Scaling, Tensor problems, Tensor Normal Models and Orbit-Closure-Separation problems which surprisingly very closed to P $\ne$ NP problem in pure Computer Science (see [Avi Wigderson ICM talk](https://www.youtube.com/watch?v=oOnyful_oPY&ab_channel=InternationalMathematicalUnion))
+  - Monte Carlo Method
   - Algorithms for Sampling Convex Bodies
   - Hight-dimension Convex Geometry
   - Random matrix theory
   - Random walks
   - Spectral graph theory
+  - Matrix Scaling, Tensor problems, Tensor Normal Models and Orbit-Closure-Separation problems which surprisingly very closed to P $\ne$ NP problem in pure Computer Science (see [Avi Wigderson ICM talk](https://www.youtube.com/watch?v=oOnyful_oPY&ab_channel=InternationalMathematicalUnion))
+
 
 - **Publications:**
   - **Son Dang Nguyen**, [Constrained Fermat-Torricelli-Weber Problem in real Hilbert Spaces](https://arxiv.org/pdf/1806.04296.pdf).

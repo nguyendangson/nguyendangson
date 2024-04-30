@@ -12,7 +12,7 @@ I am looking for jobs: **Data Science, Statistician, Machine Learning Engineerin
 # ℼ Research:
 I am interested in both Math and Computer Science. My research focuses on the application of techniques from pure mathematics to the solution of fundamental problems in Computational Geometry, Computational Biology, Graph theory, Optimization, Probability/Statistics,  problems.
 - **Research Areas:**
-  - Monte Carlo Method
+  - Monte Carlo Methods
   - Random walks
   - Algorithms for Sampling Convex Bodies
   - Hight-dimension Convex Geometry

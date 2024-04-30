@@ -16,6 +16,7 @@ I am interested in both Math and Computer Science. My research focuses on the ap
   - Algorithms for Sampling Convex Bodies
   - Hight-dimension Convex Geometry
   - Random matrix theory
+  - Random walks
   - Spectral graph theory
 
 - **Publications:**

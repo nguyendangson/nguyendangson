@@ -33,7 +33,7 @@ I am interested in both Math and Computer Science. My research focuses on the ap
 [<img src="https://github.com/nguyendangson/nguyendangson/assets/33495366/15b82a13-5446-4dc8-917d-d97cff27e3a5" width="100" height="50">](https://scholar.google.com/citations?user=LABRWj0AAAAJ&hl=en)
 [<img src="https://github.com/nguyendangson/nguyendangson/assets/33495366/4a545fd1-335b-442d-bf91-4ea48f6f6f29" width="100" height="50">](https://stackoverflow.com/users/9231101/nguyen-dang-son )
 [<img src="https://github.com/nguyendangson/nguyendangson/assets/33495366/4a545fd1-335b-442d-bf91-4ea48f6f6f29" width="100" height="50">](https://stackoverflow.com/users/19303596/son-nguyen)
-[<img src="https://github.com/nguyendangson/nguyendangson/assets/33495366/37413a8d-c9ad-4ed6-9059-d3a164a7eede" width="100" height="50">](https://arxiv.org/search/math?searchtype=author&query=Nguyen%2C+S+D)
+[<img src="https://github.com/nguyendangson/nguyendangson/assets/33495366/37413a8d-c9ad-4ed6-9059-d3a164a7eede" width="80" height="30">](https://arxiv.org/search/math?searchtype=author&query=Nguyen%2C+S+D)
 
 
 # 🌎 Who visiting my page:

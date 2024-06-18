@@ -11,15 +11,16 @@ Currently, I am looking for jobs: **Data Science, Statistician, Operation Resear
 
 # ℼ Research:
 I am interested in both Math and Computer Science. My research focuses on the application of techniques from pure mathematics to the solution of fundamental problems in Computational Geometry, Computational Biology, Graph theory, Optimization, Probability/Statistics,  problems.
-- **Research Areas:**
-  - Monte Carlo Methods
+- **Research Interest:**
+  - Integer Programmings and Combinatorial Optimization
+  - Monte Carlo Methods, Discrete-time Markov chain
   - Random polytopes
   - Random walks
   - Random matrix theory
   - Algorithms for Sampling Convex Bodies
   - Hight-dimension Convex Geometry
-  - Spectral graph theory
   - Matrix Scaling, Tensor problems, Tensor Normal Models and Orbit-Closure-Separation problems which surprisingly very closed to P $\ne$ NP problem in pure Computer Science (see [Avi Wigderson ICM talk](https://www.youtube.com/watch?v=oOnyful_oPY&ab_channel=InternationalMathematicalUnion))
+  - Spectral graph theory
 
 
 - **Publications:**

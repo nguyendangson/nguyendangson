@@ -15,6 +15,7 @@ From Oct 2023-May 2024, I was a **Data Science Intern** in Management Reporting 
 # ℼ Research:
 I am interested in both Math and Computer Science. My research interests include high-dimension Optimization,Probability,Statistics problems and their applications in Operation Research, involving Geometry, Graph theory and Random Algorithms such as Monte Carlo methods, Matrix Scaling, Sampling on Convex Bodies, Hight-dimension Convex Geometry,...
 - **Research Interest:**
+  - Probabilistic models: Gaussian Process, Flow Matching, Diffusion Models, Schordinger bridge
   - Integer Programmings and Combinatorial Optimization
   - Monte Carlo Methods, Discrete-time Markov chain
   - Random polytopes
@@ -24,7 +25,6 @@ I am interested in both Math and Computer Science. My research interests include
   - Hight-dimension Convex Geometry
   - Matrix Scaling, Tensor problems, Tensor Normal Models and Orbit-Closure-Separation problems which surprisingly very closed to P $\ne$ NP problem in pure Computer Science (see [Avi Wigderson ICM talk](https://www.youtube.com/watch?v=oOnyful_oPY&ab_channel=InternationalMathematicalUnion))
   - Spectral graph theory
-
 
 - **Publications:**
   - **Son Dang Nguyen**, [Constrained Fermat-Torricelli-Weber Problem in real Hilbert Spaces](https://arxiv.org/pdf/1806.04296.pdf).

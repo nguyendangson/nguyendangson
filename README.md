@@ -1,8 +1,11 @@
 # 🧐 About me:
 
-Currently, I am a Postdoctoral Researcher at Department of Radiology, School of Medicine at University of North Carolina at Chapel Hill School. I was a Ph.D. graduated in May 2024 in Mathematics at The University of Alabama, Tuscaloosa. I also earned a Master's degree in Optimization and Statistics at Wayne State University, Detroit, Michigan in 2018.
+I was a Ph.D. graduated in May 2024 in Mathematics at The University of Alabama, Tuscaloosa. I also earned a Master's degree in Optimization and Statistics at Wayne State University, Detroit, Michigan in 2018.
 
 # 🥷 Jobs:
+
+Previously, I was a Postdoctoral Researcher at Department of Radiology, School of Medicine at University of North Carolina at Chapel Hill School. 
+
 From Oct 2023-May 2024, I was a **Data Science Intern** in Management Reporting and Business Intelligence team at **Volvo Trucks** <img name="volvo" src="https://github.com/nguyendangson/nguyendangson/assets/33495366/77fe733a-a86b-4639-b83e-68236566157f" width="30" height="30">, Greensboro, North Carolina, US.
 
 

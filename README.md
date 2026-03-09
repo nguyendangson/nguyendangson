@@ -2,7 +2,7 @@
 
 I was a Ph.D. graduated in May 2024 in Mathematics at The University of Alabama, Tuscaloosa. I also earned a Master's degree in Optimization and Statistics at Wayne State University, Detroit, Michigan in 2018.
 
-My research Scientist specializing in the mathematical architecture of modern AI, with core expertise in Lie groups/Lie algebras, Topology/Graph Theory, Optimal Transport, Control Theory, Stochastic Calculus, and PDEs. Expert in developing probabilistic models including Gaussian Processes, Flow Matching, Score-based Diffusion, and Schrödinger Bridges. Combine academic foundations with years of applied experience in Neuroscience and Data Science to translate abstract theory into scalable, high-performance machine learning systems.
+My research scientist specializing in the mathematical architecture of modern AI, with core expertise in Lie groups/Lie algebras, Topology/Graph Theory, Optimal Transport, Control Theory, Stochastic Calculus, and PDEs. Expert in developing probabilistic models including Gaussian Processes, Flow Matching, Score-based Diffusion, and Schrödinger Bridges. Combine academic foundations with years of applied experience in Neuroscience and Data Science to translate abstract theory into scalable, high-performance machine learning systems.
 
 I was a **Research Scientist** at EI, a startup company. Previously, I was a **Postdoctoral Researcher** at Department of Radiology, School of Medicine at University of North Carolina at Chapel Hill School. 
 

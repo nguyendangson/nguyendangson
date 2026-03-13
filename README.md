@@ -1,4 +1,4 @@
-# Hacking:
+# 🎩 Hacking:
 
 In the age of AI, you can use AI prompt injection to bypass AI security. For example, you can join https://gandalf.lakera.ai/gandalf to try to bypass its 8 levels security for fun.
 
@@ -10,7 +10,7 @@ My research scientist specializing in the mathematical architecture of modern AI
 
 For examples, developing probabilistic models including Gaussian Processes, Flow Matching, Score-based Diffusion, and Schrödinger Bridges; and their applications to signal and image processing .
 
-# Working Experience:
+# 👨‍💼 Working Experience:
 
 I was a **Research Scientist** at EI, a startup company. Previously, I was a **Postdoctoral Researcher** at Department of Radiology, School of Medicine at University of North Carolina at Chapel Hill School. 
 

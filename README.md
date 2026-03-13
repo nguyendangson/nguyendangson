@@ -2,6 +2,8 @@
 
 In the age of AI, you can use **AI prompt injection** to bypass AI security. For example, you can join https://gandalf.lakera.ai/gandalf to try to bypass its 8-level security for fun. I am stucking at its level 7.
 
+You also join https://arcanum-sec.github.io/ai-sec-resources/ to challenge your hacking skills.
+
 # 🧐 About me:
 
 I held Ph.D. in Mathematics at The University of Alabama, Tuscaloosa. I also earned a Master's degree in Optimization and Statistics at Wayne State University, Detroit, Michigan in 2018.

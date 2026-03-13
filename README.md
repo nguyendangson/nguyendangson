@@ -1,5 +1,6 @@
-# <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cbc8789d-8422-4b24-a6a0-090abbfbba49" />
- Hacking:
+# Hacking:
+
+In the age of AI, you can use AI prompt injection to bypass AI security. For example, you can join https://gandalf.lakera.ai/gandalf to try to bypass its 8 levels security for fun.
 
 # 🧐 About me:
 
@@ -8,6 +9,8 @@ I held Ph.D. in Mathematics at The University of Alabama, Tuscaloosa. I also ear
 My research scientist specializing in the mathematical architecture of modern AI, with core expertise in Lie groups/Lie algebras/Quaternion, Topology/Graph Theory, Optimal Transport, Control Theory, Stochastic Calculus, and PDEs. 
 
 For examples, developing probabilistic models including Gaussian Processes, Flow Matching, Score-based Diffusion, and Schrödinger Bridges; and their applications to signal and image processing .
+
+# Working Experience:
 
 I was a **Research Scientist** at EI, a startup company. Previously, I was a **Postdoctoral Researcher** at Department of Radiology, School of Medicine at University of North Carolina at Chapel Hill School. 
 

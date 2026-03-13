@@ -1,6 +1,9 @@
+# <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/cbc8789d-8422-4b24-a6a0-090abbfbba49" />
+ Hacking:
+
 # 🧐 About me:
 
-I was a Ph.D. graduated in May 2024 in Mathematics at The University of Alabama, Tuscaloosa. I also earned a Master's degree in Optimization and Statistics at Wayne State University, Detroit, Michigan in 2018.
+I held Ph.D. in Mathematics at The University of Alabama, Tuscaloosa. I also earned a Master's degree in Optimization and Statistics at Wayne State University, Detroit, Michigan in 2018.
 
 My research scientist specializing in the mathematical architecture of modern AI, with core expertise in Lie groups/Lie algebras/Quaternion, Topology/Graph Theory, Optimal Transport, Control Theory, Stochastic Calculus, and PDEs. 
 

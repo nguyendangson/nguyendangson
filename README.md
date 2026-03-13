@@ -31,7 +31,7 @@ From Oct 2023-May 2024, I was a **Data Science Intern** in Management Reporting 
   - Matrix Scaling, Tensor problems, Tensor Normal Models and Orbit-Closure-Separation problems which surprisingly very closed to P $\ne$ NP problem in pure Computer Science (see [Avi Wigderson ICM talk](https://www.youtube.com/watch?v=oOnyful_oPY&ab_channel=InternationalMathematicalUnion))
   - Spectral graph theory
 
-- **Publications:**
+# 📰 Publications:
   - **Son Dang Nguyen**, Ervin, Tucker J.; Jackson, Blake; Lee, Kyungyong, [Geometry of C-vectors and C-Matrices for Mutation-Infinite Quivers](https://arxiv.org/pdf/2410.08510), 2024 
   - **Son Dang Nguyen**, Ervin, Tucker J.; Jackson, Blake; Lee, Kyungyong, [Geometry of c-matrices for mutation-infinite quivers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=LABRWj0AAAAJ&citation_for_view=LABRWj0AAAAJ:hqOjcs7Dif8C), Sémin. Lothar. Comb., Formal Power Series and Algebraic Combinatorics, 2024
   - **Son Dang Nguyen**, [Constrained Fermat-Torricelli-Weber Problem in real Hilbert Spaces](https://arxiv.org/pdf/1806.04296.pdf), 2018

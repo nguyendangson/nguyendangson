@@ -1,6 +1,6 @@
 # 🎩 Hacking:
 
-In the age of AI, you can use **AI prompt injection** to bypass AI security. For example, you can join https://gandalf.lakera.ai/gandalf to try to bypass its 8-level security for fun. I am at its level 7.
+In the age of AI, you can use **AI prompt injection** to bypass AI security. For example, you can join https://gandalf.lakera.ai/gandalf to try to bypass its 8-level security for fun. I am stucking at its level 7.
 
 # 🧐 About me:
 
